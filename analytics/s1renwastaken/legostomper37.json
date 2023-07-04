@@ -1,0 +1,79 @@
+{
+    "series": [
+        {
+            "x": 1688015278000,
+            "y": 5796,
+            "z": "Watch"
+        },
+        {
+            "x": 1688015278000,
+            "y": 6246,
+            "z": "Watch Streak"
+        },
+        {
+            "x": 1688015610000,
+            "y": 6256,
+            "z": "Watch"
+        },
+        {
+            "x": 1688101350000,
+            "y": 6266,
+            "z": "Watch"
+        },
+        {
+            "x": 1688101351000,
+            "y": 6716,
+            "z": "Watch Streak"
+        },
+        {
+            "x": 1688101351000,
+            "y": 6766,
+            "z": "Claim"
+        },
+        {
+            "x": 1688107323000,
+            "y": 6776,
+            "z": "Watch"
+        },
+        {
+            "x": 1688109642000,
+            "y": 5421,
+            "z": "Spent"
+        }
+    ],
+    "annotations": [
+        {
+            "borderColor": "#45c1ff",
+            "label": {
+                "style": {
+                    "color": "#000",
+                    "background": "#45c1ff"
+                },
+                "text": "+450 - WATCH_STREAK"
+            },
+            "x": 1688015278000
+        },
+        {
+            "borderColor": "#45c1ff",
+            "label": {
+                "style": {
+                    "color": "#000",
+                    "background": "#45c1ff"
+                },
+                "text": "+450 - WATCH_STREAK"
+            },
+            "x": 1688101351000
+        },
+        {
+            "borderColor": "#ffe045",
+            "label": {
+                "style": {
+                    "color": "#000",
+                    "background": "#ffe045"
+                },
+                "text": "Decision: 0 - DOES LEGOSTOMPER WIN THIS GAME???!?!?"
+            },
+            "x": 1688109642000
+        }
+    ]
+}

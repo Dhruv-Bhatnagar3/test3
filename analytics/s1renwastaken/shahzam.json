@@ -1,0 +1,208 @@
+{
+    "series": [
+        {
+            "x": 1688079253000,
+            "y": 5128,
+            "z": "Watch"
+        },
+        {
+            "x": 1688079253000,
+            "y": 5578,
+            "z": "Watch Streak"
+        },
+        {
+            "x": 1688080351000,
+            "y": 4463,
+            "z": "Spent"
+        },
+        {
+            "x": 1688082778000,
+            "y": 6532,
+            "z": "Prediction"
+        },
+        {
+            "x": 1688082843000,
+            "y": 5226,
+            "z": "Spent"
+        },
+        {
+            "x": 1688085167000,
+            "y": 4181,
+            "z": "Spent"
+        },
+        {
+            "x": 1688087796000,
+            "y": 6160,
+            "z": "Prediction"
+        },
+        {
+            "x": 1688088025000,
+            "y": 4928,
+            "z": "Spent"
+        },
+        {
+            "x": 1688090618000,
+            "y": 7065,
+            "z": "Prediction"
+        },
+        {
+            "x": 1688090710000,
+            "y": 5652,
+            "z": "Spent"
+        },
+        {
+            "x": 1688092610000,
+            "y": 4522,
+            "z": "Spent"
+        },
+        {
+            "x": 1688094950000,
+            "y": 7113,
+            "z": "Prediction"
+        },
+        {
+            "x": 1688095012000,
+            "y": 5691,
+            "z": "Spent"
+        },
+        {
+            "x": 1688107773000,
+            "y": 5701,
+            "z": "Watch"
+        }
+    ],
+    "annotations": [
+        {
+            "borderColor": "#45c1ff",
+            "label": {
+                "style": {
+                    "color": "#000",
+                    "background": "#45c1ff"
+                },
+                "text": "+450 - WATCH_STREAK"
+            },
+            "x": 1688079253000
+        },
+        {
+            "borderColor": "#ffe045",
+            "label": {
+                "style": {
+                    "color": "#000",
+                    "background": "#ffe045"
+                },
+                "text": "Decision: 1 - DOES SHAHZ WIN?"
+            },
+            "x": 1688080351000
+        },
+        {
+            "borderColor": "#54ff45",
+            "label": {
+                "style": {
+                    "color": "#000",
+                    "background": "#54ff45"
+                },
+                "text": "DOES SHAHZ WIN?"
+            },
+            "x": 1688082778000
+        },
+        {
+            "borderColor": "#ffe045",
+            "label": {
+                "style": {
+                    "color": "#000",
+                    "background": "#ffe045"
+                },
+                "text": "Decision: 1 - DOES SHAHZ WIN?"
+            },
+            "x": 1688082843000
+        },
+        {
+            "borderColor": "#ffe045",
+            "label": {
+                "style": {
+                    "color": "#000",
+                    "background": "#ffe045"
+                },
+                "text": "Decision: 1 - DOES SHAHZ WIN?"
+            },
+            "x": 1688085167000
+        },
+        {
+            "borderColor": "#54ff45",
+            "label": {
+                "style": {
+                    "color": "#000",
+                    "background": "#54ff45"
+                },
+                "text": "DOES SHAHZ WIN?"
+            },
+            "x": 1688087796000
+        },
+        {
+            "borderColor": "#ffe045",
+            "label": {
+                "style": {
+                    "color": "#000",
+                    "background": "#ffe045"
+                },
+                "text": "Decision: 0 - DOES SHAHZ WIN?"
+            },
+            "x": 1688088025000
+        },
+        {
+            "borderColor": "#54ff45",
+            "label": {
+                "style": {
+                    "color": "#000",
+                    "background": "#54ff45"
+                },
+                "text": "DOES SHAHZ WIN?"
+            },
+            "x": 1688090618000
+        },
+        {
+            "borderColor": "#ffe045",
+            "label": {
+                "style": {
+                    "color": "#000",
+                    "background": "#ffe045"
+                },
+                "text": "Decision: 0 - DOES SHAHZ WIN?"
+            },
+            "x": 1688090710000
+        },
+        {
+            "borderColor": "#ffe045",
+            "label": {
+                "style": {
+                    "color": "#000",
+                    "background": "#ffe045"
+                },
+                "text": "Decision: 1 - DOES SHAHZ WIN?"
+            },
+            "x": 1688092610000
+        },
+        {
+            "borderColor": "#54ff45",
+            "label": {
+                "style": {
+                    "color": "#000",
+                    "background": "#54ff45"
+                },
+                "text": "DOES SHAHZ WIN?"
+            },
+            "x": 1688094950000
+        },
+        {
+            "borderColor": "#ffe045",
+            "label": {
+                "style": {
+                    "color": "#000",
+                    "background": "#ffe045"
+                },
+                "text": "Decision: 0 - DOES SHAHZ WIN?"
+            },
+            "x": 1688095012000
+        }
+    ]
+}
